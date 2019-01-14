@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=clojure,haskell,intellij
 
 ### Clojure ###
+idea/
 pom.xml
 pom.xml.asc
 *.jar
